@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## CV Shu lai
 
 You can use the [editor on GitHub](https://github.com/kimpika33393/Kimpika/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
